@@ -28,7 +28,6 @@ L'algoritmo funziona selezionando casualmente un punto di partenza nella serie t
 ## Come iniziare
 Data una serie temporale con i valori osservati 0.4, 0.2, 0.1, 0.4, 0.3, 0.1, 0.3, 0.4, 0.2, 0.5, 0.1 e 0.2, l'utente desidera generare un nuovo campione di lunghezza 9 in cui la dimensione media del blocco è 4.
 
-
 ```python
 import numpy as np
 from BootstrapStazionario import BootstrapStazionario
